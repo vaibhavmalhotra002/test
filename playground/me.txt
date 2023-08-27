@@ -1,6 +1,0 @@
-{{#user}}
-Name: Vaibhav
-Skills: HTML, CSS, JS, Next.js
-Email: vaibhavmalhotra002@gmail.com
-{{/user}}
-
